@@ -3,15 +3,15 @@
 A Java collaborative project. This program allows the user to play ambient background sounds at random or at command. Full user interface is implemented and provides all functionality requested by the project client. Project management done in Trac.
 
 ### Team Members
-Alex Sikorski
-Paris Chrysanthou
-James Henderson
-Louis Holdsworth
-Jordan Quartey
-Ibukun Hassan
-Saif Alshamsi
-Anna Lorek
-Callum Kleber
+- Alex Sikorski
+- Paris Chrysanthou
+- James Henderson
+- Louis Holdsworth
+- Jordan Quartey
+- Ibukun Hassan
+- Saif Alshamsi
+- Anna Lorek
+- Callum Kleber
 
 ### Project Description (in Trac)
 Naturescape: Natural Soundscapes to the Desktop
@@ -47,5 +47,10 @@ In this project you will produce a program that brings natural sounds to peopleâ
 
 
 **Constraints**
-Iteration 1 due **18th November: 2pm.**
-Iteration 2 due **10th December: 2pm.**
+Iteration 1 due **18th November 2019: 2pm.**
+Iteration 2 due **10th December 2019: 2pm.**
+
+### Tickets for Iteration 1 (in Trac)
+![Iteration 1 tickets](/trac_screenshots/iteration1.png)
+### Tickets for Iteration 2 (in Trac)
+![Iteration 2 tickets](/trac_screenshots/iteration2.png)
