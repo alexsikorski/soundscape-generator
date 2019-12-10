@@ -51,6 +51,6 @@ Iteration 1 due **18th November 2019: 2pm.**
 Iteration 2 due **10th December 2019: 2pm.**
 
 ### Tickets for Iteration 1 (in Trac)
-![Iteration 1 tickets](/trac_screenshots/iteration1.png)
+![Iteration 1 tickets](trac_screnshots/iteration1.png)
 ### Tickets for Iteration 2 (in Trac)
-![Iteration 2 tickets](/trac_screenshots/iteration2.png)
+![Iteration 2 tickets](trac_screnshots/iteration2.png)
