@@ -6,15 +6,15 @@ A Java collaborative project. This program allows the user to play ambient backg
 JUnit4 is used for unit testing. To prevent it from running, simply select Test package and mark directory as Excluded.
 
 ### Team Members
-- Alex Sikorski
-- Paris Chrysanthou
-- James Henderson
-- Louis Holdsworth
-- Jordan Quartey
-- Ibukun Hassan
-- Saif Alshamsi
-- Anna Lorek
-- Callum Kleber
+- **Alex Sikorski** (as16815)
+- **Paris Chrysanthou** (pc16496)
+- **James Henderson** (jh18919)
+- **Louis Holdsworth** (lh16556)
+- **Jordan Quartey** (jh18919)
+- **Ibukun Hassan** (ih16184)
+- **Saif Alshamsi** (sa16281)
+- **Anna Lorek** (al17846)
+- **Callum Kleber** (ck17427)
 
 ### Project Description (in Trac)
 Naturescape: Natural Soundscapes to the Desktop
@@ -57,3 +57,9 @@ Iteration 2 due **10th December 2019: 2pm.**
 ![Iteration 1 tickets](trac_screnshots/iteration1.png)
 ### Tickets for Iteration 2 (in Trac)
 ![Iteration 2 tickets](trac_screnshots/iteration2.png)
+
+### Group Results
+n/a (not released)
+
+### Personal Result
+n/a (not release)
