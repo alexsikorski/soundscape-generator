@@ -57,9 +57,3 @@ Iteration 2 due **10th December 2019: 2pm.**
 ![Iteration 1 tickets](trac_screnshots/iteration1.png)
 ### Tickets for Iteration 2 (in Trac)
 ![Iteration 2 tickets](trac_screnshots/iteration2.png)
-
-### Group Results
-n/a (not released)
-
-### Personal Result
-n/a (not released)
