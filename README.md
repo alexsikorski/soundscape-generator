@@ -53,7 +53,12 @@ In this project you will produce a program that brings natural sounds to peopleâ
 Iteration 1 due **18th November 2019: 2pm.**
 Iteration 2 due **10th December 2019: 2pm.**
 
+### Final Application 'Marketing'
+Soundscape Generator is a free sound mixer for composing random ambient soundscapes. Create your own ever-changing ambient noise or sound environments! This is a sound landscape for all, which is highly customisable to your specific needs! This product is great for those of you that are stressed, frustrated and tensed. Specially recommended for academic students and staff members who just want to relax and unwind after a long day. It's also perfect for relaxation, meditation and yoga. With the Soundscape generator you can go from your office straight to the beach or the rainforest with a click of a button. People spend hundreds of pounds on ambient sound machines of varying qualities to achieve what this program can do easily with your own computer and some speakers for free.
+![Preview 1](https://alexsikorski.net/img/soundscape-generator/soundscape-generator-1.jpg)
+![Preview 2](https://alexsikorski.net/img/soundscape-generator/soundscape-generator-2.jpg)
+
 ### Tickets for Iteration 1 (in Trac)
-![Iteration 1 tickets](trac_screnshots/iteration1.png)
+![Iteration 1 tickets](https://alexsikorski.net/img/soundscape-generator/iteration-1.jpg)
 ### Tickets for Iteration 2 (in Trac)
-![Iteration 2 tickets](trac_screnshots/iteration2.png)
+![Iteration 2 tickets](https://alexsikorski.net/img/soundscape-generator/iteration-2.jpg)
